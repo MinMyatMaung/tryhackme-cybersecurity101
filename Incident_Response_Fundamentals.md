@@ -67,3 +67,76 @@ Common components include:
 - Communication plans
 - Stakeholder notification
 - Escalation procedures
+
+## Incident Detection and Response Tools
+
+## Detection and Analysis
+
+The second phase of incident response focuses on identifying suspicious activity and confirming whether an incident has occurred.
+
+Because manually reviewing large amounts of activity is difficult, organizations use security tools to help detect and respond to threats.
+
+## Common Security Tools
+
+### SIEM
+
+A **Security Information and Event Management (SIEM)** system collects logs from multiple sources into one place and analyzes them for suspicious activity.
+
+### Antivirus
+
+**Antivirus (AV)** scans systems for known malicious files and programs.
+
+### EDR
+
+**Endpoint Detection and Response (EDR)** monitors endpoint activity and can detect more advanced threats.
+
+EDR may also help with:
+
+- Containment
+- Investigation
+- Threat removal
+
+## Playbooks
+
+A **playbook** provides a structured response process for a specific type of incident.
+
+For example, a phishing playbook may include:
+
+1. Notify relevant stakeholders.
+2. Analyze the email header and content.
+3. Inspect attachments.
+4. Check whether users opened the attachment.
+5. Isolate infected systems.
+6. Block the malicious sender.
+
+Playbooks help security teams respond consistently and quickly.
+
+## Runbooks
+
+A **runbook** contains detailed step-by-step instructions for performing a specific response action.
+
+While a playbook describes the overall process, a runbook explains exactly how individual tasks should be carried out.
+
+## Phishing Incident Investigation
+
+In a phishing incident, analysts may need to:
+
+- Identify hosts that received or downloaded the malicious file.
+- Determine which systems executed the malware.
+- Isolate infected endpoints.
+- Investigate the timeline of activity.
+- Remove the threat and prevent further spread.
+
+## Key Takeaway
+
+Incident Response is the process of preparing for, detecting, containing, removing, and recovering from cybersecurity incidents.
+
+I learned about:
+
+- Events, alerts, false positives, true positives, and incidents
+- Incident severity and common incident types
+- SANS and NIST response frameworks
+- SIEM, Antivirus, and EDR tools
+- Playbooks and runbooks
+
+Overall, effective incident response helps organizations reduce damage, restore systems, and improve future security.
