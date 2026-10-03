@@ -12,6 +12,7 @@ The goal of this repository is to record important concepts, tools, commands, an
 
 - Digital Forensics Fundamentals
 - Incident Response Fundamentals
+- Logs Fundamentals
 
 ## Disclaimer
 
