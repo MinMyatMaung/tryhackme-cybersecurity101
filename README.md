@@ -15,6 +15,7 @@ The goal of this repository is to record important concepts, tools, commands, an
 - Logs Fundamentals
 - Introduction to SIEM
 - Firewall Fundamentals
+- IDS Fundamentals
 
 ## Disclaimer
 
