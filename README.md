@@ -16,6 +16,7 @@ The goal of this repository is to record important concepts, tools, commands, an
 - Introduction to SIEM
 - Firewall Fundamentals
 - IDS Fundamentals
+- CyberChef: The Basics
 
 ## Disclaimer
 
